@@ -21,7 +21,7 @@ An application designed to help gamers unlock exclusive skins for their favorite
 3. Follow the simple steps, and you're ready to go!
 
 ## Contributing 🤝
-We welcome contributions to improve SkinHelperApp! You can help by:
+We welcome contributions to improve Roblox_SkinApp! You can help by:
 - Reporting bugs via [issues](link-to-issues).
 - Suggesting new features or improvements.
 
